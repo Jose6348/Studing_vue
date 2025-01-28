@@ -7,5 +7,5 @@
 <template>
     <input type="text" v-model="texto">
     <p>{{texto}}</p>
-
+    <p>teste</p>
 </template>
